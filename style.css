@@ -1,0 +1,13 @@
+.panda-caurosel-bg {
+  background-color: #fceae8;
+}
+.panda-btn-buy-now {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: white;
+  padding: 9px 25px;
+  border: none;
+  border-radius: 8px;
+}
+.catagories img {
+  width: 100px;
+}
